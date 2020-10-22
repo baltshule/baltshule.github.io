@@ -1,0 +1,13 @@
+h1 {
+    color: orange
+}
+p {
+    color: blue;
+}
+.pinktext {
+    color: green;
+    text-decoration: underline;
+}
+#pinkText {
+    color: hotpink
+}
