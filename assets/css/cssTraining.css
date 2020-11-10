@@ -10,4 +10,17 @@
     background-image: url('../images/Dart.jpg');
 }
 
+.bodytext {
+    color: forestgreen;
+    text-decoration: line-through;
+    font-weight: bold;
+    text-transform: uppercase;
+}
 
+.subText {
+    color: forestgreen;
+    text-decoration: line-through;
+    font-weight: bold;
+    text-transform: uppercase;
+    border: 1px solid black;
+}
