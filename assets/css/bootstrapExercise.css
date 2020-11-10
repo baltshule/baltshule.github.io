@@ -24,3 +24,17 @@
     background-color: lightsalmon;
     color: white;
 }
+
+.saladRow {
+    background-color: darkolivegreen;
+    padding: 30px
+}
+
+.saladRow p {
+    padding: 5px;
+    color: blue;
+}
+
+.regBentox {
+    margin-top: 20px;
+}
