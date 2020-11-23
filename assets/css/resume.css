@@ -1,10 +1,10 @@
-.topRow img { 
-    width: 200px;
-    height: auto;
+p {
+    color: black;
 }
-.topRow {
+
+.topRow image{
     align-items: center;
-    margin-bottom: 15;
+    margin-bottom: 25px;
 }
 
 .middleRow div.divider {
@@ -15,8 +15,19 @@
     width: 75%;
 }
 
-.row {
-    margin-left: 15px;
-    margin-right: 15px;   
+.projects .experience .education .aboutMe .skills {
+    border: 1px solid black;
+    padding: 20px;
+    margin-top: 30px;
 }
 
+.contactRow {
+    margin: 25px;
+}
+
+myResume {
+    border: 2px dotted #34af95;
+    padding: 20px 50px!important;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
