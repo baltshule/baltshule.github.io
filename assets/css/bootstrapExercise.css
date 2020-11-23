@@ -38,3 +38,68 @@
 .regBentox {
     margin-top: 20px;
 }
+
+/* bentobox  */
+
+.regBentox {
+    background-color: darkolivegreen;
+    height: 500px;
+}
+
+/* bootstap vertical alignment */
+.gridExercise {
+    background-color: lightseagreen;
+    margin: 30px 0;
+}
+
+.parentTarget {
+    height: 200px;
+    background-color: lightgray;
+    margin: 10px;
+}
+
+.parentTarget div {
+    height: 50px;
+    background-color: lightblue;
+    border: 1px solid black;
+
+}
+
+.gridExercise .height100 {
+    height: 100px;
+    background-color: lightcoral;
+    border: 1px solid black;
+}
+
+.height100 div {
+    height: 50px;
+    background-color: lightgreen;
+    border: 1px solid black;
+}
+
+/* build out div exercise */
+
+.divExercise .customeRow {
+    height: 100px;
+    border: 1px solid black;
+}
+
+.customeRow div {
+    height: 100px;
+}
+
+.customeRow div:first-child {
+    background-color: mediumblue;
+}
+
+.customeRow div:nth-child() {
+    background-color: red;
+}
+
+.customeRow div:nth-child() {
+    background-color: magenta;
+}
+
+.customeRow div:last-child {
+    background-color: seagreen;
+}
