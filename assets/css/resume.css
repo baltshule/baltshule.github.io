@@ -11,14 +11,15 @@ p {
     border-bottom: 1px solid black;
     border-top: 1px solid black;
     transform: translate(-10px, 0);
-    margin-bottom: 40px;
-    width: 75%;
+    margin-bottom: 20px;
+    width: 100%;
 }
 
-.projects .experience .education .aboutMe .skills {
+.projects .experience .education .aboutMe .skillsSet {
     border: 1px solid black;
     padding: 20px;
-    margin-top: 30px;
+    margin-top: 35px;
+    border-top: 1px solid black;
 }
 
 .contactRow {
