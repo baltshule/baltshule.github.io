@@ -1,0 +1,53 @@
+.carousel {
+    position: relative;
+}
+
+/* Carousel */
+.customCarousel .carousel-item>img {
+    width: 100%;
+    object-fit: cover;
+    height: 600px;
+}
+
+.customCarousel .carousel-caption h4 {
+    font-weight: bold;
+    font-style: italic;
+    text-transform: capitalize;
+    margin: 20px 0;
+}
+
+.customCarousel .carousel-caption span {
+    color:blue;
+    padding: 10px;
+    opacity: 0.75;
+}
+
+.customCarousel .carousel-indicators li {
+    border-radius: 50%;
+    width: 15px;
+    height: 15px
+}
+
+.customCarousel .carousel-indicators li:hover {
+    background-color:blue;
+    opacity: 1;
+}
+
+.customCarousel .carousel-indicators li.active {
+    background-color: blue;
+    opacity: 1;
+}
+
+.customCarousel .carousel-control-prev,
+.customCarousel .carousel-control-next {
+    opacity: 1;
+}
+
+.customCarousel a span:first-child i {
+    color: blue;
+    font-size: 30px;
+}
+
+.customCarousel a span:first-child i:hover {
+    transform: scale(2);
+}
