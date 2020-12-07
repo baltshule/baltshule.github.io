@@ -1,0 +1,15 @@
+div.divider {
+    border-bottom: 1px solid black;
+    border-top: 1px solid black;
+    transform: translate(-10px, 0);
+    margin-bottom: 20px;
+    width: 100%;
+}
+
+p {
+    padding-left: 20px;
+    padding-bottom: 15px;
+    padding-right: 20px;
+    padding-top: 5px;
+    border-bottom: 1px solid black
+}
